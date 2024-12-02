@@ -3,7 +3,6 @@ stock controll to bakery
         - typescript
         - fastify
         - mongodb
-        - zod
         - prisma
 
 

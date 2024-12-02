@@ -11,4 +11,22 @@ Simple API made to use in project Stock control. Made in NodeJS, Fastify and Mon
 - Prisma
 - Fastify
 - MongoDB
-- Zod
+
+### Requirements to test 
+- Insomnia
+- Postman
+
+### Copy repository 
+```
+https://github.com/NuneszG/api-stock-control.git
+```
+
+### Run api
+```
+npm run dev
+```
+
+### Api running on port 
+```
+http://localhost:8000
+```
