@@ -1,0 +1,24 @@
+stock controll to bakery
+    - technologies used
+        - typescript
+        - fastify
+        - mongodb
+        - zod
+        - prisma
+
+
+    - product model
+        - name product
+        - price
+        - amount
+        - validity
+        - type product
+        - created at 
+        - updated at 
+
+
+    - features
+        - create product
+        - updated some product
+        - delete product 
+        - get all products
