@@ -1,4 +1,4 @@
-# API stock controll
+# API stock control
 Simple API made to use in project Stock control. Made in NodeJS, Fastify and MongoDB.
 
 ### Features
